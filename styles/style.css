@@ -1,0 +1,17 @@
+body{
+  background: #6D319E;
+  color: white;
+}
+#wrapper {
+  background: black;
+  width: 800px;
+  margin: 50px auto;
+}
+#header{
+  background: red;
+  padding: 20px;
+  color: white;
+}
+#wrapper h1 {
+  text-align: center;
+}
